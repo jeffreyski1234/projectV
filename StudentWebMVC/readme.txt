@@ -1,3 +1,7 @@
+UPDATE - 051320
+The repository now contains both projectV labelled /exampapp and the final exam labelled /StudentWebMVC
+The readme file below only relates to the ProjectV app as the StudentWebMVC app is a complete MVC rewrite of the below...but still utilizing the MySQL Database
+
 Readme
 
 One major modification is that spring framework and the springtestcontroller code was added to demonstrate spring in its entirety but is not necessary for functional project.
